@@ -1,9 +1,9 @@
-# Imersão de Java
+# 🚀 Imersão de Java  
 
-Este repositório serve para guardar os projetos que vou desenvolver em menos de um mês com foco total.  
+Este repositório foi criado para armazenar os projetos simples que vou desenvolver. 💻☕  
 
-O objetivo é:
-- Fixar o conteúdo estudado
-- Praticar intensamente em um curto espaço de tempo
-- Criar uma base sólida em Java para avançar em projetos mais complexos
+## 🎯 Objetivos  
 
+- 📌 Fixar o conteúdo estudado  
+- ⚡ Praticar intensamente em um curto espaço de tempo  
+- 🏗️ Após praticar, vou avançar com conteúdos mais complexos.
