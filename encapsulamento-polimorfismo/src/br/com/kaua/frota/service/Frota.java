@@ -16,6 +16,12 @@ public class Frota {
         return lista;
     }
 
+    public void listarVeiculos() {
+        for (Veiculo v : lista) {
+            v.cadastrar();
+        }
+    }
+
     public static void cadastrarVeiculos(Scanner sc, Frota frota, int qtd) {
         for (int i = 0; i < qtd; i++) {
             String tipo = "";
