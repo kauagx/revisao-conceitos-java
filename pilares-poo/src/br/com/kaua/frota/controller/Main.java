@@ -25,7 +25,7 @@ public class Main {
                 }
             } catch (InputMismatchException e) {
                 System.out.println("Erro: Digite apenas a quantidade de veículos que deseja cadastrar!!!");
-                sc.nextLine(); // limpa buffer
+                sc.nextLine();
             }
         }
 
