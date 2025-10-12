@@ -53,19 +53,16 @@ O projeto segue o padrão **MVC**, dividido da seguinte forma:
 
 - Linguagem: **Java**
 - IDE: **VS Code** ou **IntelliJ**
-- Entrada de dados: **Scanner**
 
 ---
 
 ## ▶️ Como Executar
 
-1. Abra o terminal na pasta do projeto;
-2. Compile os arquivos Java:
+1. Abra o terminal na pasta do projeto;  
+2. Compile os arquivos Java:  
 
    ```bash
    javac Main.java
-
- execute o programa java Main
 
 ---
 
